@@ -43,25 +43,31 @@
         <div class="container d-flex justify-content-between align-items-center">
 
             <div id="logo">
-                <h1><a href="index.html">Adrián Dario Rosa</a></h1>
+                <h1><a href="index.html">Adrosa</a></h1>
             </div>
 
             <nav id="navbar" class="navbar">
                 <ul>
                     <li><a class="nav-link scrollto active" target="_self" href="#home">Inicio</a></li>
                     <li><a class="nav-link scrollto" target="_self" href="#about">Sobre mí</a></li>
-                    <li class="dropdown"><a class="nav-link scrollto" target="_self"
-                            href="#subjects"><span>Materias</span> <i class="bi bi-chevron-down"></i></a>
-                        <ul>
-                            <li><a target="_self" href="views/circuitos_electronicos.html">Circuitos electrónicos</a></li>
-                            <li><a target="_self" href="#">Electrotecnia</a></li>
-                            <li><a target="_self" href="#">AMESEA</a></li>
-                            <li><a target="_self" href="#">Tecnología de las comunicaciones</a></li>
-                            <li><a target="_self" href="#">Tecnología de las máquinas eléctricas</a></li>
-                            <li><a target="_self" href="#">Análisis matemático</a></li>
-                            <li><a target="_self" href="#">Mediciones I</a></li>
-                            <li><a target="_self" href="#">Electrónica aplicada II</a></li>
-                        </ul>
+                    <li class="d-flex justify-content-between align-items-center">
+                        <a class="nav-link scrollto" target="_self" href="#subjects">
+                            <span>Materias</span>
+                            <ul>
+                                <li class="dropdown"><a href="#subjects"> <i class="bi bi-chevron-down"></i></a>
+                                    <ul>
+                                        <li><a target="_self" href="views/circuitos_electronicos.html">Circuitos electrónicos</a></li>
+                                        <li><a target="_self" href="views/electrotecnia.html">Electrotecnia</a></li>
+                                        <li><a target="_self" href="views/amesea.html">AMESEA</a></li>
+                                        <li><a target="_self" href="views/tecnologia_de_las_comunicaciones.html">Tecnología de las comunicaciones</a></li>
+                                        <li><a target="_self" href="views/tecnologia_de_las_maquinas_electricas.html">Tecnología de las máquinas eléctricas</a></li>
+                                        <li><a target="_self" href="views/analisis_matematico.html">Análisis matemático</a></li>
+                                        <li><a target="_self" href="views/mediciones_1.html">Mediciones I</a></li>
+                                        <li><a target="_self" href="views/electronica_aplicada_2.html">Electrónica aplicada II</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </a>
                     </li>
                     <li><a class="nav-link scrollto" target="_self" href="#interesting-sites">Sitios de interés</a></li>
                     <li><a class="nav-link scrollto" target="_self" href="#contact">Contacto</a></li>
@@ -73,7 +79,7 @@
 
     <!-- ======= Home Section ======= -->
     <section id="home">
-        <div class="home-container px-5" data-aos="zoom-in" data-aos-delay="100">
+        <div class="home-container p-3" data-aos="zoom-in" data-aos-delay="100">
             <h1>Electrónica para todos y todas</h1>
             <h2>
                 Este sitio está dedicado a todos los estudiantes que pasaron y pasan por mis cursos,
@@ -88,7 +94,7 @@
 
         <!-- ======= About Section ======= -->
         <section id="about">
-            <div class="container" data-aos="fade-up">
+            <div class="container px-5" data-aos="fade-up">
                 <div class="row about-container">
                     <div class="col-lg-6 content order-lg-1 order-2">
                         <h2 class="title">Sobre mí</h2>
@@ -136,7 +142,7 @@
 
         <!-- ======= Subjects Section ======= -->
         <section id="subjects">
-            <div class="container" data-aos="fade-up">
+            <div class="container px-3" data-aos="fade-up">
                 <div class="section-header">
                     <h3 class="section-title">Materias</h3>
                     <p class="section-description">En esta parte del sitio, encontrarán los apuntes correspondientes a
@@ -148,7 +154,8 @@
                     <div class="col-lg-4 col-md-6" data-aos="zoom-in">
                         <div class="box d-flex flex-column">
                             <!-- <div class="icon"><a href="views/circuitos_electronicos.html"><i class="bi bi-broadcast-pin"></i></a></div> -->
-                            <div class="icon"><a href=""><img src="assets/vendor/subjects-icons/transistor.svg"/></a></div>
+                            <div class="icon"><a href=""><img src="assets/vendor/subjects-icons/transistor.svg" /></a>
+                            </div>
                             <h4 class="title"><a href="views/circuitos_electronicos.html">Circuitos electrónicos</a>
                             </h4>
                             <p class="description mt-auto">Voluptatum deleniti atque corrupti quos dolores et quas
@@ -161,7 +168,8 @@
                     <div class="col-lg-4 col-md-6" data-aos="zoom-in">
                         <div class="box d-flex flex-column">
                             <!-- <div class="icon"><a href=""><i class="bi bi-card-checklist"></i></a></div> -->
-                            <div class="icon"><a href=""><img src="assets/vendor/subjects-icons/power_transformer.svg"/></a></div>
+                            <div class="icon"><a href=""><img
+                                        src="assets/vendor/subjects-icons/power_transformer.svg" /></a></div>
                             <h4 class="title"><a href="">Electrotecnia</a></h4>
                             <p class="description mt-auto">Minim veniam, quis nostrud exercitation ullamco laboris nisi
                                 ut
@@ -262,7 +270,7 @@
                         siguiente formulario.</p>
                 </div>
             </div>
-            <div class="container my-4">
+            <div class="container my-4 px-4">
                 <div class="row justify-content-center">
 
                     <div class="col-lg-3 col-md-4">
