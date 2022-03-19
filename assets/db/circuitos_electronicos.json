@@ -29,9 +29,51 @@
                 },
                 {
                     "title": "Elementos de filtro",
-                    "img_url": "",
+                    "img_url": "../assets/img/circuitos_electronicos_1/capacitores.jpg",
                     "description": "Relación de ripple. Filtros paralelos. Filtros en rectificadores. Doblador de tensión.",
                     "pdf_url": "https://adrosa.net/PDF/CE1/Rectificadores%20con%20Filtro.pdf"
+                },
+                {
+                    "title": "Dispositivo de control",
+                    "img_url": "../assets/img/circuitos_electronicos_1/transitor.jpg",
+                    "description": "Concepto de dispositivo de control de señal. Modos de trabajo del dispositivo de control de señal",
+                    "pdf_url":"https://adrosa.net/PDF/CE1/Dispositivos%20de%20Control%20de%20Senal.pdf"
+                },
+                {
+                    "title": "Transistor bipolar de juntura",
+                    "img_url": "../assets/img/circuitos_electronicos_1/curva_trabajo_transitor.jpg",
+                    "description": "Principio de funcionamiento. Características constructivas.",
+                    "pdf_url":"https://adrosa.net/PDF/CE1/Transistor%20Bipolar%20de%20Juntura.pdf"
+                },
+                {
+                    "title": "Modelo de alterna de bajo nivel",
+                    "img_url": "../assets/img/circuitos_electronicos_1/hibrido_pi.jpg",
+                    "description": "Transconductancia. Resistencia de entrada/salida. Capacitancia de entrada/salida",
+                    "pdf_url":"https://adrosa.net/PDF/CE1/Modelo%20de%20Alterna%20de%20Bajo%20Nivel.pdf"
+                },
+                {
+                    "title": "Circuitos de polarización",
+                    "img_url": "../assets/img/circuitos_electronicos_1/polarizacion.jpg",
+                    "description": "Circuito de polarización fija. Circuito de polarización realimentado por colector.",
+                    "pdf_url":"https://adrosa.net/PDF/CE1/Circuitos%20de%20Polarizacion.pdf"
+                },
+                {
+                    "title": "Circuitos amplificadores",
+                    "img_url": "../assets/img/circuitos_electronicos_1/amplificador_mono.jpg",
+                    "description": "Circuito basico monoetapa de bajo nivel. Analisis del circuito de alterna con señal.",
+                    "pdf_url":"https://adrosa.net/PDF/CE1/Circuitos%20Amplificadores.pdf"
+                },
+                {
+                    "title": "Configuración en Base Común",
+                    "img_url": "../assets/img/circuitos_electronicos_1/bjt_base_comun.jpg",
+                    "description": "Circuito equivalente del transistor en BC. Determinación de los parámetros en BC.",
+                    "pdf_url":"https://adrosa.net/PDF/CE1/Configuracion%20en%20Base%20Comun.pdf"
+                },
+                {
+                    "title": "Funcionamiento del circuito integrado LM 317",
+                    "img_url": "../assets/img/circuitos_electronicos_1/regulador_lm317.jpg",
+                    "description": "Concepto de realimentación. Circuito de aplicación del CI LM317",
+                    "pdf_url":"https://adrosa.net/PDF/CE1/Funcionamiento%20del%20LM%20317.pdf"
                 }
             ]
         },
@@ -42,10 +84,10 @@
             "zip_url": "",
             "cards_content": [
                 {
-                    "title": "",
-                    "img_url": "",
-                    "description": "",
-                    "pdf_url": ""
+                    "title": "JFET",
+                    "img_url": "../assets/img/circuitos_electronicos_2/jfet.jpg",
+                    "description": "Transistor de efecto de campo de juntura. Aspectos constructivos. Análisis del comportamiento del dispositivo.",
+                    "pdf_url": "https://adrosa.net/PDF/CE2/JFET.pdf"
                 },
                 {
                     "title": "",
