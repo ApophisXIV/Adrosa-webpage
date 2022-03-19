@@ -1,0 +1,44 @@
+{
+    "subjects": [
+        {
+            "subject_title": "Circuitos electrónicos I",
+            "subject_description": "TODO",
+            "cards_total": "12",
+            "cards_content": [
+                {
+                    "title": "Fundamentos de la electrónica",
+                    "img_url": "../assets/img/circuitos_electronicos_1/silicio.jpg",
+                    "description": "Introducción. Fundamentos de la teoría electronica. Constitución de la materia. Bandas de energía.",
+                    "pdf_url": "https://adrosa.net/PDF/CE1/Fundamentos%20de%20Electronica.pdf"
+                },
+                {
+                    "title": "Semiconductores extrínsecos",
+                    "img_url": "../assets/img/circuitos_electronicos_1/juntura_pn.jpg",
+                    "description": "Semiconductor P, N y juntura PN. Conductividad del semiconductor. Polarización. Diodo."
+                },
+                {
+                    "title": "Fenómenos de ruptura",
+                    "img_url": "../assets/img/circuitos_electronicos_1/diodo_tunel.jpg",
+                    "description": "Polarización inversa. Efecto avalancha. Diodo túnel. Efecto túnel. Capacitancia de juntura. Capacitancia de difusión."
+                },
+                {
+                    "title": "Aplicaciones del diodo",
+                    "img_url": "../assets/img/circuitos_electronicos_1/puente_onda_completa.jpg",
+                    "description": "Modos de trabajo. Diodo en DC. Diodo en AC. Valor medio. Valor eficaz. Rectificadores."
+                }
+            ]
+        },
+        {
+            "subject_title": "Circuitos electrónicos II",
+            "cards_total": "13",
+            "cards_content": [
+                {
+                    "title": "",
+                    "img_url": "",
+                    "description": ""
+                }
+            ]
+
+        }
+    ]
+}
