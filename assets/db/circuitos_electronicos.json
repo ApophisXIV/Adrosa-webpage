@@ -2,8 +2,9 @@
     "subjects": [
         {
             "subject_title": "Circuitos electrónicos I",
-            "subject_description": "TODO",
+            "subject_description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
             "cards_total": "12",
+            "zip_url": "",
             "cards_content": [
                 {
                     "title": "Fundamentos de la electrónica",
@@ -19,26 +20,174 @@
                 {
                     "title": "Fenómenos de ruptura",
                     "img_url": "../assets/img/circuitos_electronicos_1/diodo_tunel.jpg",
-                    "description": "Polarización inversa. Efecto avalancha. Diodo túnel. Efecto túnel. Capacitancia de juntura. Capacitancia de difusión."
+                    "description": "Polarización inversa. Efecto avalancha. Efecto túnel. Capacitancia de juntura. Capacitancia de difusión."
                 },
                 {
                     "title": "Aplicaciones del diodo",
                     "img_url": "../assets/img/circuitos_electronicos_1/puente_onda_completa.jpg",
                     "description": "Modos de trabajo. Diodo en DC. Diodo en AC. Valor medio. Valor eficaz. Rectificadores."
+                },
+                {
+                    "title": "Elementos de filtro",
+                    "img_url": ""
+                    "description": "Relación de ripple. Filtros paralelos. Filtros en rectificadores. Doblador de tensión.",
+                    "pdf_url": "https://adrosa.net/PDF/CE1/Rectificadores%20con%20Filtro.pdf"
                 }
             ]
         },
         {
             "subject_title": "Circuitos electrónicos II",
+            "subject_description": "",
             "cards_total": "13",
+            "zip_url": "",
             "cards_content": [
                 {
                     "title": "",
                     "img_url": "",
-                    "description": ""
+                    "description": "",
+                    "pdf_url": ""
+                },
+                {
+                    "title": "",
+                    "img_url": "",
+                    "description": "",
+                    "pdf_url": ""
+                },
+                {
+                    "title": "",
+                    "img_url": "",
+                    "description": "",
+                    "pdf_url": ""
+                },
+                {
+                    "title": "",
+                    "img_url": "",
+                    "description": "",
+                    "pdf_url": ""
+                },
+                {
+                    "title": "",
+                    "img_url": "",
+                    "description": "",
+                    "pdf_url": ""
+                },
+                {
+                    "title": "",
+                    "img_url": "",
+                    "description": "",
+                    "pdf_url": ""
+                },
+                {
+                    "title": "",
+                    "img_url": "",
+                    "description": "",
+                    "pdf_url": ""
+                },
+                {
+                    "title": "",
+                    "img_url": "",
+                    "description": "",
+                    "pdf_url": ""
+                },
+                {
+                    "title": "",
+                    "img_url": "",
+                    "description": "",
+                    "pdf_url": ""
+                },
+                {
+                    "title": "",
+                    "img_url": "",
+                    "description": "",
+                    "pdf_url": ""
+                },
+                {
+                    "title": "",
+                    "img_url": "",
+                    "description": "",
+                    "pdf_url": ""
+                },
+                {
+                    "title": "",
+                    "img_url": "",
+                    "description": "",
+                    "pdf_url": ""
+                },
+                {
+                    "title": "",
+                    "img_url": "",
+                    "description": "",
+                    "pdf_url": ""
                 }
             ]
-
+        },
+        {
+            "subject_title": "Circuitos electrónicos III",
+            "subject_description": "",
+            "cards_total": "10",
+            "zip_url": "",
+            "cards_content": [
+                {
+                    "title": "",
+                    "img_url": "",
+                    "description": "",
+                    "pdf_url": ""
+                },
+                {
+                    "title": "",
+                    "img_url": "",
+                    "description": "",
+                    "pdf_url": ""
+                },
+                {
+                    "title": "",
+                    "img_url": "",
+                    "description": "",
+                    "pdf_url": ""
+                },
+                {
+                    "title": "",
+                    "img_url": "",
+                    "description": "",
+                    "pdf_url": ""
+                },
+                {
+                    "title": "",
+                    "img_url": "",
+                    "description": "",
+                    "pdf_url": ""
+                },
+                {
+                    "title": "",
+                    "img_url": "",
+                    "description": "",
+                    "pdf_url": ""
+                },
+                {
+                    "title": "",
+                    "img_url": "",
+                    "description": "",
+                    "pdf_url": ""
+                },
+                {
+                    "title": "",
+                    "img_url": "",
+                    "description": "",
+                    "pdf_url": ""
+                },
+                {
+                    "title": "",
+                    "img_url": "",
+                    "description": "",
+                    "pdf_url": ""
+                },
+                {
+                    "title": "",
+                    "img_url": "",
+                    "description": "",
+                    "pdf_url": ""
+                }
+            ]
         }
     ]
 }
