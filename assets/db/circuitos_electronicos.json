@@ -90,76 +90,76 @@
                     "pdf_url": "https://adrosa.net/PDF/CE2/JFET.pdf"
                 },
                 {
-                    "title": "",
-                    "img_url": "",
-                    "description": "",
-                    "pdf_url": ""
+                    "title": "Polarizacion del JFET",
+                    "img_url": "../assets/img/circuitos_electronicos_2/polarizacion_jfet.jpg",
+                    "description": "Determinación de la polarización del JFET mediante el método analítico.<br/><br/>",
+                    "pdf_url": "https://adrosa.net/PDF/CE2/Polarizacion%20del%20JFET.pdf"
                 },
                 {
-                    "title": "",
-                    "img_url": "",
-                    "description": "",
-                    "pdf_url": ""
+                    "title": "MOSFET",
+                    "img_url": "../assets/img/circuitos_electronicos_2/MOSFET.jpg",
+                    "description": "Funcionamiento sin tensión aplicada a la compuerta. Funcionamiento con polarización de compuerta.<br/><br/>",
+                    "pdf_url": "https://adrosa.net/PDF/CE2/MOSFET.pdf"
                 },
                 {
-                    "title": "",
-                    "img_url": "",
-                    "description": "",
-                    "pdf_url": ""
+                    "title": "CMOS",
+                    "img_url": "../assets/img/circuitos_electronicos_2/CMOS.jpg",
+                    "description": "Aspectos constructivos. Proceso CMOS de pozo N. Inversor lógico CMOS. Funcionamiento.<br/><br/>",
+                    "pdf_url": "https://adrosa.net/PDF/CE2/CMOS.pdf"
                 },
                 {
-                    "title": "",
-                    "img_url": "",
-                    "description": "",
-                    "pdf_url": ""
+                    "title": "Fuentes de corriente",
+                    "img_url": "../assets/img/circuitos_electronicos_2/fuente_corriente.jpg",
+                    "description": "Fuente espejo. Fuente de Widlar. Fuentes m ̇ltiples. Fuente cascode.<br/><br/> ",
+                    "pdf_url": "https://adrosa.net/PDF/CE2/Fuentes%20de%20corriente.pdf"
                 },
                 {
-                    "title": "",
-                    "img_url": "",
-                    "description": "",
-                    "pdf_url": ""
+                    "title": "Etapas de potencia.",
+                    "img_url": "../assets/img/circuitos_electronicos_2/amplificador_potencia.jpg",
+                    "description": "Amplificador clase A. Etapa clase B (complementaria). Etapa clase AB.<br/><br/>",
+                    "pdf_url": "https://adrosa.net/PDF/CE2/Etapas%20de%20potencia.pdf"
                 },
                 {
-                    "title": "",
-                    "img_url": "",
-                    "description": "",
-                    "pdf_url": ""
+                    "title": "Diseño de una etapa de salida clase B",
+                    "img_url": "../assets/img/circuitos_electronicos_2/etapa_salida_b.jpg",
+                    "description": "Especificaciones deseadas. Cálculo de la tensión necesaria.",
+                    "pdf_url": "https://adrosa.net/PDF/CE2/Etapa%20de%20salida%20clase%20B.pdf"
                 },
                 {
-                    "title": "",
-                    "img_url": "",
-                    "description": "",
-                    "pdf_url": ""
+                    "title": "Amplificador Diferencial",
+                    "img_url": "../assets/img/circuitos_electronicos_2/amplificador_diferencial.jpg",
+                    "description": "Etapa diferencial básica. Teorema de Barlett de bisección. ",
+                    "pdf_url": "https://adrosa.net/PDF/CE2/Amplificadores%20Diferenciales.pdf"
                 },
                 {
-                    "title": "",
-                    "img_url": "",
-                    "description": "",
-                    "pdf_url": ""
+                    "title": "Disipadores",
+                    "img_url": "../assets/img/circuitos_electronicos_2/disipador.jpg",
+                    "description": "Diferentes tipos de disipadores.",
+                    "pdf_url": "https://adrosa.net/PDF/CE2/Disipadores%20comerciales.pdf"
                 },
                 {
-                    "title": "",
-                    "img_url": "",
-                    "description": "",
-                    "pdf_url": ""
+                    "title": "Tipos de retroalimentacion",
+                    "img_url": "../assets/img/circuitos_electronicos_2/retroalimentacion.jpg",
+                    "description": "Diferentes tipos de retroalimentacion.",
+                    "pdf_url": "https://adrosa.net/PDF/CE2/Tipos%20de%20Realimentacion.pdf"
                 },
                 {
-                    "title": "",
-                    "img_url": "",
-                    "description": "",
-                    "pdf_url": ""
+                    "title": "Parametros estabilizados",
+                    "img_url": "../assets/img/circuitos_electronicos_2/parametros_estabilizados.jpg",
+                    "description": "Tabla con los parametros estabilizados.",
+                    "pdf_url": "https://adrosa.net/PDF/CE2/Parametros%20Estabilizados.pdf"
                 },
                 {
-                    "title": "",
-                    "img_url": "",
-                    "description": "",
-                    "pdf_url": ""
+                    "title": "Curvas disipadores",
+                    "img_url": "../assets/img/circuitos_electronicos_2/curva_disipadores.jpg",
+                    "description": "Determinacion del dicipador. Area de una cara para un disipador plano.",
+                    "pdf_url": "https://adrosa.net/PDF/CE2/curvas_disipadores.pdf"
                 },
                 {
-                    "title": "",
-                    "img_url": "",
-                    "description": "",
-                    "pdf_url": ""
+                    "title": "Diseño disipadores",
+                    "img_url": "../assets/img/circuitos_electronicos_2/diseño_disipadores.jpg",
+                    "description": "Cálculo disipador con ventilación forzada. ",
+                    "pdf_url": "https://adrosa.net/PDF/CE2/Completo_disipadores.pdf"
                 }
             ]
         },
@@ -170,63 +170,131 @@
             "zip_url": "",
             "cards_content": [
                 {
-                    "title": "",
-                    "img_url": "",
-                    "description": "",
+                    "title": "Sistemas de segundo orden",
+                    "img_url": "../assets/img/circuitos_electronicos_3/sistemas_segundo_orden.jpg",
+                    "description": "Caso sobre amortiguado. Caso subamortiguado. Caso crítico. Transformada de Laplace",
+                    "pdf_url": "https://adrosa.net/PDF/CE3/Sistemas%20de%20segundo%20orden.pdf"
+                },
+                {
+                    "title": "Transistor unijuntura",
+                    "img_url": "../assets/img/circuitos_electronicos_3/unijuntura.jpg",
+                    "description": "Funcionamiento.  Ejemplo de aplicación.<br/><br/><br/><br/>",
+                    "pdf_url": "https://adrosa.net/PDF/CE3/Transistor%20unijuntura.pdf"
+                },
+                {
+                    "title": "Unijuntura (Motorola)",
+                    "img_url": "../assets/img/circuitos_electronicos_3/motorola.jpg",
+                    "description": "Motorola thyristor device data<br/><br/><br/>",
+                    "pdf_url": "https://adrosa.net/PDF/CE3/Unijuntura%20(Motorola).pdf"
+                },
+                {
+                    "title": "Convertidores UP-Down",
+                    "img_url": "../assets/img/circuitos_electronicos_3/convertidores_up_down.jpg",
+                    "description": "Understanding Buck-Boost Power Stages in Switch Mode. <br/><br/>",
+                    "pdf_url": "https://adrosa.net/PDF/CE3/Convetidores%20up%20down.pdf"
+                },
+                {
+                    "title": "Convertidor tipo volante o fly back",
+                    "img_url": "../assets/img/circuitos_electronicos_3/convertidor_flyback.jpg",
+                    "description": "Funcionamiento. Convertidor tipo push-pull. Convertidor de puente completo. Utilización de los distintos convertidores.",
+                    "pdf_url": "https://adrosa.net/PDF/CE3/Corvertidores%20tipo%20fly-back.pdf"
+                },
+                {
+                    "title": "Criterios de diseño (Motorola)",
+                    "img_url": "../assets/img/circuitos_electronicos_3/motorola.jpg",
+                    "description": "Flyback switching power supplies. Full-bridge switching power supplies. Half-bridge switching power supplies.",
+                    "pdf_url": "https://adrosa.net/PDF/CE3/Criterios.pdf"
+                },
+                {
+                    "title": "Manual de diseño de Motorola",
+                    "img_url": "../assets/img/circuitos_electronicos_3/manual_diseño.jpg",
+                    "description": "The designer's guide switching power supply. Comparison with linear regulators. Popular inverter configurations.",
+                    "pdf_url": "https://adrosa.net/PDF/CE3/Diseno%20Motorola%20SPS.pdf"
+                },
+                {
+                    "title": "Dispositivos de potencia",
+                    "img_url": "../assets/img/circuitos_electronicos_3/dispositivo_potencia.jpg",
+                    "description": "Power transitors. <br/> Rectifiers.<br/> Zener diodes.<br/> Thyristors.<br/> Linear integrated circuits.",
                     "pdf_url": ""
                 },
                 {
-                    "title": "",
-                    "img_url": "",
-                    "description": "",
-                    "pdf_url": ""
+                    "title": "Uso del TL494",
+                    "img_url": "../assets/img/circuitos_electronicos_3/TL494.jpg",
+                    "description": "The basic device. Principle of operation. Aplications. Design example. List of figures.",
+                    "pdf_url": "https://adrosa.net/PDF/CE3/TL494.pdf"
                 },
                 {
-                    "title": "",
-                    "img_url": "",
-                    "description": "",
-                    "pdf_url": ""
+                    "title": "Fallas en fuentes conmutadas.",
+                    "img_url": "../assets/img/circuitos_electronicos_3/fallas_fuentes_conmutadas.jpg",
+                    "description": "Off line SMPS operation. <br/><br/><br/>",
+                    "pdf_url": "https://adrosa.net/PDF/CE3/Fallas.pdf"
+                }
+            ]
+        },
+        {
+            "subject_title": "Electrotecnia",
+            "subject_description": "",
+            "cards_total": "25",
+            "zip_url": "",
+            "cards_content": [
+                {
+                    "title": "Unidades",
+                    "img_url": "../assets/img/electrotecnia/unidades.jpg",
+                    "description": "Unidades eléctricas. Intensidad de corriente. Diferencia de potencial eléctrico. Múltiplos y submúltiplos. ",
+                    "pdf_url": "https://adrosa.net/PDF/Electrotecnia/unidades.pdf"
                 },
                 {
-                    "title": "",
-                    "img_url": "",
-                    "description": "",
-                    "pdf_url": ""
+                    "title": "Leyes de Kirchhoff",
+                    "img_url": "../assets/img/electrotecnia/leyes_kirchhoff.jpg",
+                    "description": "Primera ley de Kirchhoff o ley de los nodos o de las corrientes. Segunda ley de Kirchhoff o ley de las mallas o de las tensiones.  ",
+                    "pdf_url": "https://adrosa.net/PDF/Electrotecnia/Leyes%20de%20Kirchhoff.pdf"
                 },
                 {
-                    "title": "",
-                    "img_url": "",
-                    "description": "",
-                    "pdf_url": ""
+                    "title": "Teoremas de Circuitos",
+                    "img_url": "../assets/img/electrotecnia/teoremas_circuitos.jpg",
+                    "description": "Principio de superposición. Teoremas de Thévenin. Teorema de máxima transferencia de potencia",
+                    "pdf_url": "https://adrosa.net/PDF/Electrotecnia/Teoremas%20de%20Circuitos.pdf"
                 },
                 {
-                    "title": "",
-                    "img_url": "",
-                    "description": "",
-                    "pdf_url": ""
+                    "title": "Problemas nodos",
+                    "img_url": "../assets/img/electrotecnia/nodo.jpg",
+                    "description": "Problemas adicionales. <br/> <br/> <br/> <br/> <br/>",
+                    "pdf_url": "https://adrosa.net/PDF/Electrotecnia/Problemas%20nodos.pdf"
                 },
                 {
-                    "title": "",
-                    "img_url": "",
-                    "description": "",
-                    "pdf_url": ""
+                    "title": "Problemas de resistencia",
+                    "img_url": "../assets/img/electrotecnia/resistencia.jpg",
+                    "description": "Problemas adicionales de agrupamiento de resistencias. <br/> <br/>",
+                    "pdf_url": "https://adrosa.net/PDF/Electrotecnia/Problemas%20resistencias.pdf"
                 },
                 {
-                    "title": "",
-                    "img_url": "",
-                    "description": "",
-                    "pdf_url": ""
+                    "title": "Problemas de superposición",
+                    "img_url": "../assets/img/electrotecnia/superposicion.jpg",
+                    "description": "Problemas adicionales sobre Superposición <br/> <br/><br/>",
+                    "pdf_url": "https://adrosa.net/PDF/Electrotecnia/Problemas%20superposicion.pdf"
                 },
                 {
-                    "title": "",
-                    "img_url": "",
-                    "description": "",
-                    "pdf_url": ""
+                    "title": "Capacitores",
+                    "img_url": "../assets/img/electrotecnia/capacitor.jpg",
+                    "description": "Capacitancia y capacitores. Capacitores y dieléctricos. Clasificación de los capacitores. Conexión de capacitores.",
+                    "pdf_url": "https://adrosa.net/PDF/Electrotecnia/Capacitores.pdf"
                 },
                 {
-                    "title": "",
-                    "img_url": "",
-                    "description": "",
+                    "title": "Corriente alterna.",
+                    "img_url": "../assets/img/electrotecnia/corriente_alterna.jpg",
+                    "description": "Dominio de la frecuencia y ecuaciones transformadas. Ecuaciones transformadas para los circuitos. Concepto de impedancia y admitancia.",
+                    "pdf_url": "https://adrosa.net/PDF/Electrotecnia/Corriente%20alterna.pdf"
+                },
+                {
+                    "title": "Fórmula de Euler",
+                    "img_url": "../assets/img/electrotecnia/formula_euler.jpg",
+                    "description": "Desarrollo de una función en serie de potencias. Fórmula de Taylor - Mc Laurin. Desarrollo en serie de Mc Laurin. <br/> <br/>",
+                    "pdf_url": "https://adrosa.net/PDF/Electrotecnia/Formula%20de%20Euler.pdf"
+                },
+                {
+                    "title": "Potencia en corriente alterna",
+                    "img_url": "../assets/img/electrotecnia/potencia_corriente_alterna.jpg",
+                    "description": "Potencia reactiva y aparente. Factor de potencia. Otras expresiones de las potencias. Potencia compleja.",
                     "pdf_url": ""
                 }
             ]
