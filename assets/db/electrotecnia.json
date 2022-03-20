@@ -1,0 +1,72 @@
+{
+    "subjects": [
+        {
+            "subject_title": "Electrotecnia",
+            "subject_description": "",
+            "cards_total": "25",
+            "zip_url": "",
+            "cards_content": [
+                {
+                    "title": "Unidades",
+                    "img_url": "../assets/img/electrotecnia/unidades.jpg",
+                    "description": "Unidades eléctricas. Intensidad de corriente. Diferencia de potencial eléctrico. Múltiplos y submúltiplos. ",
+                    "pdf_url": "https://adrosa.net/PDF/Electrotecnia/unidades.pdf"
+                },
+                {
+                    "title": "Leyes de Kirchhoff",
+                    "img_url": "../assets/img/electrotecnia/leyes_kirchhoff.jpg",
+                    "description": "Primera ley de Kirchhoff o ley de los nodos o de las corrientes. Segunda ley de Kirchhoff o ley de las mallas o de las tensiones.  ",
+                    "pdf_url": "https://adrosa.net/PDF/Electrotecnia/Leyes%20de%20Kirchhoff.pdf"
+                },
+                {
+                    "title": "Teoremas de Circuitos",
+                    "img_url": "../assets/img/electrotecnia/teoremas_circuitos.jpg",
+                    "description": "Principio de superposición. Teoremas de Thévenin. Teorema de máxima transferencia de potencia",
+                    "pdf_url": "https://adrosa.net/PDF/Electrotecnia/Teoremas%20de%20Circuitos.pdf"
+                },
+                {
+                    "title": "Problemas nodos",
+                    "img_url": "../assets/img/electrotecnia/nodo.jpg",
+                    "description": "Problemas adicionales. <br/> <br/> <br/> <br/> <br/>",
+                    "pdf_url": "https://adrosa.net/PDF/Electrotecnia/Problemas%20nodos.pdf"
+                },
+                {
+                    "title": "Problemas de resistencia",
+                    "img_url": "../assets/img/electrotecnia/resistencia.jpg",
+                    "description": "Problemas adicionales de agrupamiento de resistencias. <br/> <br/>",
+                    "pdf_url": "https://adrosa.net/PDF/Electrotecnia/Problemas%20resistencias.pdf"
+                },
+                {
+                    "title": "Problemas de superposición",
+                    "img_url": "../assets/img/electrotecnia/superposicion.jpg",
+                    "description": "Problemas adicionales sobre Superposición <br/> <br/><br/>",
+                    "pdf_url": "https://adrosa.net/PDF/Electrotecnia/Problemas%20superposicion.pdf"
+                },
+                {
+                    "title": "Capacitores",
+                    "img_url": "../assets/img/electrotecnia/capacitor.jpg",
+                    "description": "Capacitancia y capacitores. Capacitores y dieléctricos. Clasificación de los capacitores. Conexión de capacitores.",
+                    "pdf_url": "https://adrosa.net/PDF/Electrotecnia/Capacitores.pdf"
+                },
+                {
+                    "title": "Corriente alterna.",
+                    "img_url": "../assets/img/electrotecnia/corriente_alterna.jpg",
+                    "description": "Dominio de la frecuencia y ecuaciones transformadas. Ecuaciones transformadas para los circuitos. Concepto de impedancia y admitancia.",
+                    "pdf_url": "https://adrosa.net/PDF/Electrotecnia/Corriente%20alterna.pdf"
+                },
+                {
+                    "title": "Fórmula de Euler",
+                    "img_url": "../assets/img/electrotecnia/formula_euler.jpg",
+                    "description": "Desarrollo de una función en serie de potencias. Fórmula de Taylor - Mc Laurin. Desarrollo en serie de Mc Laurin. <br/> <br/>",
+                    "pdf_url": "https://adrosa.net/PDF/Electrotecnia/Formula%20de%20Euler.pdf"
+                },
+                {
+                    "title": "Potencia en corriente alterna",
+                    "img_url": "../assets/img/electrotecnia/potencia_corriente_alterna.jpg",
+                    "description": "Potencia reactiva y aparente. Factor de potencia. Otras expresiones de las potencias. Potencia compleja.",
+                    "pdf_url": ""
+                }
+            ]
+        }
+    ]
+}
