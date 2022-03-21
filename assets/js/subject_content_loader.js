@@ -29,7 +29,7 @@ function card_template(data) {
  */
 function subject_template(data) {
     const html = `
-        <h2 class="d-flex justify-content-between primary-color">
+        <h2 class="d-flex justify-content-between primary-text-color">
             ${data.subject_title}
             <div class="icon">
                 <a href="${data.zip_url}">
