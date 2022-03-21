@@ -6,7 +6,7 @@
   --modal-warning-bg: #f7b924;
   --modal-warning-icon-bg: #f7c947;
   --modal-text: #555;
-  --modal-content-bg: #dfdfdf;
+  --modal-content-bg: #efefef;
 }
 
 /* Danger Modal */
@@ -88,4 +88,6 @@
   border-radius: 8px;
   text-decoration: none;
   min-width: 150px;
+  height: 50px;
+  line-height: 30px;
 }
