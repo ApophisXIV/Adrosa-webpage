@@ -625,12 +625,11 @@ section {
   padding: 80px 0 60px 0;
 }
 #subjects .box {
-  padding: 50px 20px;
+  padding: 50px 20px 20px 20px;
   margin: 0 10px 60px 10px;
   text-align: center;
   border: 1px solid #e6e6e6;
   position: relative;
-  min-height: 300px;
   background: #fafafa;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px,
     rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
