@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Electrotecnia</title>
+    <title>Tecnología de las comunicaciones</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
@@ -67,9 +67,9 @@
                                 <li class="dropdown"><a href="../index.html#subjects"> <i class="bi bi-chevron-down"></i></a>
                                     <ul>
                                         <li><a target="_self" href="circuitos_electronicos.html">Circuitos electrónicos</a></li>
-                                        <li><a target="_self" href="#">Electrotecnia</a></li>
+                                        <li><a target="_self" href="electrotecnia.html">Electrotecnia</a></li>
                                         <li><a target="_self" href="amesea.html">AMESEA</a></li>
-                                        <li><a target="_self" href="tecnologia_de_las_comunicaciones.html">Tecnología de las comunicaciones</a></li>
+                                        <li><a target="_self" href="#">Tecnología de las comunicaciones</a></li>
                                         <li><a target="_self" href="tecnologia_de_las_maquinas_electricas.html">Tecnología de las máquinas eléctricas</a></li>
                                         <li><a target="_self" href="analisis_matematico.html">Análisis matemático</a></li>
                                         <li><a target="_self" href="mediciones_1.html">Mediciones I</a></li>
@@ -94,10 +94,10 @@
             <div class="container">
 
                 <div class="d-flex justify-content-between align-items-center">
-                    <h2>Electrotecnia</h2>
+                    <h2>Tecnología de las comunicaciones</h2>
                     <ol>
                         <li><a href="../index.html">Inicio</a></li>
-                        <li>Electrotecnia</li>
+                        <li>Tecnología de las comunicaciones</li>
                     </ol>
                 </div>
 
@@ -140,7 +140,7 @@
     <script type="module">
         import { get_subject } from '../assets/js/subject_content_loader.js';
         window.addEventListener('load', () => {
-            get_subject('../assets/db/electrotecnia.json', '#subject_container', (callback) => {
+            get_subject('../assets/db/tecnologia_de_las_comunicaciones.json', '#subject_container', (callback) => {
                 if (!callback) document.querySelector('#main').setAttribute('class', 'd-flex flex-column h-100');
             });
         });
