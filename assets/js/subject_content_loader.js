@@ -68,7 +68,8 @@ function error_modal(message) {
                         ${message}
                     </div>
                     <div class="modal-footer">
-                        <button type="button" class="btn btn-warning" data-bs-dismiss="modal"
+                        <a class="btn btn-secondary p-2" href="../index.html#subjects">Regresar al inicio</a>
+                        <button type="button" class="btn btn-warning text-light p-2" data-bs-dismiss="modal"
                                 onclick="location.reload()">Reintentar</button>
                     </div>
                 </div>
