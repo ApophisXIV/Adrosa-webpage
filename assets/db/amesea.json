@@ -1,0 +1,32 @@
+{
+    "subjects": [
+        {
+            "subject_title": "",
+            "subject_description": "",
+            "cards_total": "",
+            "zip_url": "",
+            "cards_content": [
+                {
+                    "title": "",
+                    "img_url": "../assets/img/",
+                    "description": "",
+                    "pdf_url": ""
+                }
+            ]
+        },
+        {
+            "subject_title": "",
+            "subject_description": "",
+            "cards_total": "",
+            "zip_url": "",
+            "cards_content": [
+                {
+                    "title": "",
+                    "img_url": "../assets/img/",
+                    "description": "",
+                    "pdf_url": ""
+                }
+            ]
+        }
+    ]
+}
