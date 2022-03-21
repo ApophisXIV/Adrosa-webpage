@@ -1,28 +1,14 @@
 {
     "subjects": [
         {
-            "subject_title": "",
-            "subject_description": "",
+            "subject_title": "Mediciones I",
+            "subject_description": "lorem ipsum dolor sit amet, consectetur adipiscing elit",
             "cards_total": "",
             "zip_url": "",
             "cards_content": [
                 {
                     "title": "",
-                    "img_url": "../assets/img/",
-                    "description": "",
-                    "pdf_url": ""
-                }
-            ]
-        },
-        {
-            "subject_title": "",
-            "subject_description": "",
-            "cards_total": "",
-            "zip_url": "",
-            "cards_content": [
-                {
-                    "title": "",
-                    "img_url": "../assets/img/",
+                    "img_url": "",
                     "description": "",
                     "pdf_url": ""
                 }
