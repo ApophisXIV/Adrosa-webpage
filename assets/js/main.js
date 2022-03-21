@@ -171,7 +171,7 @@
     const copyright = select('.copyright')
     if (copyright) {
         const year = new Date().getFullYear()
-        copyright.innerHTML = ` &copy; Copyright <strong>Ing. Adrián Darío Rosa</strong> ${year}. All Rights Reserved`
+        copyright.innerHTML = ` &copy; Copyright ${year}. <strong>Ing. Adrián Darío Rosa</strong>. All Rights Reserved`
     }
 
 
