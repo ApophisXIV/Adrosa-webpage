@@ -30,7 +30,7 @@
                 {
                     "title": "Elementos de filtro",
                     "img_url": "../assets/img/circuitos_electronicos_1/capacitores.jpg",
-                    "description": "Relación de ripple. Filtros paralelos. Filtros en rectificadores. Doblador de tensión.",
+                    "description": "Relación de ripple. Filtros paralelos. Filtros en rectificadores. Doblador de tensión.<br><br>",
                     "pdf_url": "https://adrosa.net/PDF/CE1/Rectificadores%20con%20Filtro.pdf"
                 },
                 {
@@ -54,7 +54,7 @@
                 {
                     "title": "Circuitos de polarización",
                     "img_url": "../assets/img/circuitos_electronicos_1/polarizacion.jpg",
-                    "description": "Circuito de polarización fija. Circuito de polarización realimentado por colector.",
+                    "description": "Circuito de polarización fija. Circuito de polarización realimentado por colector.<br><br>",
                     "pdf_url":"https://adrosa.net/PDF/CE1/Circuitos%20de%20Polarizacion.pdf"
                 },
                 {
@@ -70,7 +70,7 @@
                     "pdf_url":"https://adrosa.net/PDF/CE1/Configuracion%20en%20Base%20Comun.pdf"
                 },
                 {
-                    "title": "Funcionamiento del circuito integrado LM 317",
+                    "title": "Funcionamiento del circuito integrado LM317",
                     "img_url": "../assets/img/circuitos_electronicos_1/regulador_lm317.jpg",
                     "description": "Concepto de realimentación. Circuito de aplicación del CI LM317",
                     "pdf_url":"https://adrosa.net/PDF/CE1/Funcionamiento%20del%20LM%20317.pdf"
@@ -134,7 +134,7 @@
                 {
                     "title": "Disipadores",
                     "img_url": "../assets/img/circuitos_electronicos_2/disipador.jpg",
-                    "description": "Diferentes tipos de disipadores.",
+                    "description": "Diferentes tipos de disipadores.<br><br>",
                     "pdf_url": "https://adrosa.net/PDF/CE2/Disipadores%20comerciales.pdf"
                 },
                 {
