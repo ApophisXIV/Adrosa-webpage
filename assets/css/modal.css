@@ -3,13 +3,17 @@
   --modal-danger-icon-bg: #ef513a;
   --modal-success-bg: #0fa578;
   --modal-success-icon-bg: #04d19a;
+  --modal-warning-bg: #f7b924;
+  --modal-warning-icon-bg: #f7c947;
   --modal-text: #555;
+  --modal-content-bg: #dfdfdf;
 }
+
 /* Danger Modal */
 .modal-danger .modal-header {
   background-color: var(--modal-danger-bg) !important;
 }
-.modal-danger .icon-box{
+.modal-danger .icon-box {
   background-color: var(--modal-danger-icon-bg) !important;
 }
 
@@ -17,10 +21,17 @@
 .modal-success .modal-header {
   background-color: var(--modal-success-bg) !important;
 }
-.modal-success .icon-box{
+.modal-success .icon-box {
   background-color: var(--modal-success-icon-bg) !important;
 }
 
+/* Warning Modal */
+.modal-warning .modal-header {
+  background-color: var(--modal-warning-bg) !important;
+}
+.modal-warning .icon-box {
+  background-color: var(--modal-warning-icon-bg) !important;
+}
 
 .modal-custom-icon {
   color: var(--modal-text);
@@ -28,6 +39,7 @@
 .modal-custom .modal-content {
   border-radius: 20px;
   border: none;
+  background-color: var(--modal-content-bg);
 }
 .modal-custom .modal-header {
   border-bottom: none;
@@ -38,17 +50,15 @@
   text-align: center;
   font-size: 26px;
 }
-.modal-custom .form-control,
-.modal-custom .btn {
-  margin: 0 auto;
-  min-height: 40px;
-  border-radius: 3px;
-}
 .modal-custom .modal-footer {
   border: none;
   text-align: center;
   border-radius: 5px;
   font-size: 13px;
+  min-height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
 }
 .modal-custom .icon-box {
   color: #fff;
@@ -75,11 +85,7 @@
   margin-top: calc(50vh - 200px);
 }
 .modal-custom .btn {
-  color: #555;
-  font-weight: 500;
   border-radius: 8px;
   text-decoration: none;
-  transition: all 0.4s;
-  line-height: normal;
-  border: none;
+  min-width: 150px;
 }
